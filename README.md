@@ -97,7 +97,7 @@ YOu can use the following markedown format to create tables:
 Github extends the functionality of markdown tables to provide more alignment and table cell formatting options. [<sup>[2]</sup>](#external-references)
  
 
-[Secret Window Hidden Garden](secret-window/hidden-garden)
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
 
 
 ## External References
