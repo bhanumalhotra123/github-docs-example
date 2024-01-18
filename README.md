@@ -12,6 +12,14 @@ Because it allows others to copy and paste their code to replicate or research i
 
 - In order to create codeblocks in markdown you beed to use three backticks (`)
 - Not to be confused with quotation (')
+- Its should appeaer above the tab key, but it may vary based on your keyboard layout.
+
+
+<img width="200" src=assets/backtick.png>
+
+- Make note of where the backtick keyboard key is located.
+- It should appear above the tab key,
+- but it may vary based on your keyboard layout.
 
 ```
 # Get input from the user
@@ -43,10 +51,7 @@ print("The sum of {} and {} is: {}".format(num1, num2, sum_result))
 
 ```
 
-- Hello! This picture of me was taken at The Beatles Ashram in Rishikesh.
-- This tranquil ashram nestled in the spiritual haven of Rishikesh served as a creative retreat for The Beatles during a crucial phase in their musical journey.
 
-<img width="200" src="https://github.com/bhanumalhotra123/github-docs-example/assets/144083659/81e2fb52-3c0e-4114-ad07-43c3cce98d39" />
 
 Good Cloud Engineers use codeblocks for both Code and Errors that appear in the console.
 
@@ -100,3 +105,12 @@ Github extends the functionality of markdown tables to provide more alignment an
 - [ GFM - Task Lists](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists) <sup>[1]</sup>
 - [GFM - Emoji CheatSheet](https://github.com/ikatyang/emoji-cheat-sheet)
 - [ GFM - Tables (with extensions)](https://github.github.com/gfm/#tables-extension-)<sup>[2]</sup>
+
+
+
+
+<img width="200" src="https://github.com/bhanumalhotra123/github-docs-example/assets/144083659/81e2fb52-3c0e-4114-ad07-43c3cce98d39" />
+  
+- Hello! This picture of me was taken at The Beatles Ashram in Rishikesh.
+- This tranquil ashram nestled in the spiritual haven of Rishikesh served as a creative retreat for The Beatles during a crucial phase in their musical journey.
+
